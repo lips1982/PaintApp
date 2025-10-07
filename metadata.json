@@ -1,0 +1,5 @@
+{
+  "name": "React Paint App",
+  "description": "A simple drawing application similar to Paint, built with React, TypeScript, and Tailwind CSS. Users can draw with different colors and brush sizes, erase, clear the canvas, and download their creations.",
+  "requestFramePermissions": []
+}
